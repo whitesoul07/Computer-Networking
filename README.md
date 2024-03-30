@@ -83,3 +83,23 @@
    ![download](https://github.com/whitesoul07/Computer-Networking/assets/165417316/a611e5ea-bf00-406d-8ee2-aeffe213c067)
 
    
+# ***Types of Computer Network***
+
+1) **Local Area Network** -> It interconnects  the computer within the limited area like school, office, etc.
+
+   i) Wired LAN -> Ethernet- HUB, Switches.
+   ii) Wireless LAN -> WI-FI.
+
+2) **Metropolitian Area Network** -> It connect the user with other computer network in geographic region of a city.
+
+    **Devices used in it is** ->
+
+      i) Switches/HUB -> to establish LAN network.
+      ii) Router/Bridges -> to connect two LAN network.
+
+ 3) **Wide Area Network**  -> It is a Telecommunicatiion Network that extend over a large geographical area.
+
+    **Devices used in it** -> End and Intermediate Devices.
+
+ 4) **Storage  Area Network** -> Cloud Computing ->  on-demand delivery of computing services such as servers, storage, databases, networking, software, and analytics
+ 5) **Virtual  Private Network** ->  A secure network established over the public internet, encrypting the data transferred and restricting access to authorized users only.
