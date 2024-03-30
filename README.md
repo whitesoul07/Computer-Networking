@@ -32,6 +32,8 @@
 4 ***Switch***
 -> Switch do the same work of HUB  but in more   filter and forwarding way.
 
+-> It use an application integrated circuit(ASIC) chip.
+
 -> when a packet is deliver to switch it checks the address and many more things and transfer the packet to the right device.(Packet Switching Technique)
 
 -> Switch sends data in Frames.
@@ -82,7 +84,11 @@
 
    ![download](https://github.com/whitesoul07/Computer-Networking/assets/165417316/a611e5ea-bf00-406d-8ee2-aeffe213c067)
 
-   
+9 ***Multi Layer Switch***
+
+-> it is a devices that switches an OSI layer 2 like an ordinary network switch and provides extra functions on higher OSI layers
+
+-> It is highly  programmable and complex which may have few ports or more ports.
 # ***Types of Computer Network***
 
 1) **Local Area Network** -> It interconnects  the computer within the limited area like school, office, etc.
@@ -102,4 +108,15 @@
     **Devices used in it** -> End and Intermediate Devices.
 
  4) **Storage  Area Network** -> Cloud Computing ->  on-demand delivery of computing services such as servers, storage, databases, networking, software, and analytics
+    
  5) **Virtual  Private Network** ->  A secure network established over the public internet, encrypting the data transferred and restricting access to authorized users only.
+
+# ***Security Devices***
+
+1) **Firewall**
+   -> It can be placed on router or hosts(software based) or it can be its own devices. It blocks packets from entering and leaving the network.
+   -> It functions at multiple layer of the OSI model specially at layers  2, 3 ,4 and 7.
+
+   **Types of inspection in firewall**
+
+  i) **Stateless Inspection** ->  in this firewall examines every packet under some set of rules
